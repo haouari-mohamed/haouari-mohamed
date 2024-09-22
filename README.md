@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Java/Angular**
 
-- 📫 How to reach me **haouari.mohamed@outlook.com**/  **muhamedhaouari@gmail.com**
+- 📫 How to reach me   **muhamedhaouari@gmail.com**
 
 
 <p align="left">
