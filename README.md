@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Haouari</h1>
 <h3 align="center">A passionate Full stack developer Java/Angular from Morocco</h3>
 
-- 🔭 I’m currently working on **nursery website**
+- 🔭 I’m currently working on **inventory management productions system**
 
-- 🌱 I’m currently learning **Angular +Micro-services**
+- 🌱 I’m currently learning **React +Micro-services**
 
-- 👯 I’m looking to collaborate on **Java/Angular**
+- 👯 I’m looking to collaborate on **Java/React/Angular**
 
 - 📫 How to reach me   **muhamedhaouari@gmail.com**
 
