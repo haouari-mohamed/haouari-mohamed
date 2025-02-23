@@ -23,10 +23,6 @@
 </a>
 </p>
 
-<p align="left">
-    <a/> <!-- Snake -->
-      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
 
  
  
@@ -36,6 +32,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=haouari-mohamed&show_icons=true&theme=synthwave" alt="haouari-mohamed:: Profile Stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haouari-mohamed&langs_count=10&theme=tokyonight&layout=compact" alt="haouari-mohamed:: Top Langs" /></p>
+
+<p align="center">
+    <a/> <!-- Snake -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
+
 
 
 
