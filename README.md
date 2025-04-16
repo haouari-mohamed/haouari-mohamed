@@ -26,6 +26,19 @@
 </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
+</a
+
+<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+</a>
+
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
+</a>
+
+
+<a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="plotly" width="40" height="40"/>
 </a>
 </p>
 
