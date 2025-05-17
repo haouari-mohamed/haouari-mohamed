@@ -3,13 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Haouari</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
-- 🔭 I’m currently working on **Trading bot using Springboot and Vantage Market API**
 
-- 🌱 I’m currently learning **Python & React & Automation**
-
-- 👯 I’m looking to collaborate on **Python (Django) Java (Springboot) Javascripte (React & Angular)**
-
-- 📫 How to reach me   **muhamedhaouari@gmail.com**
 
 
 <p align="center">
