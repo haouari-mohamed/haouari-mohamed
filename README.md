@@ -43,7 +43,7 @@
 
 <h4 align="center">Profile stats 🎹</h4>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haouari-mohamed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=haouari-mohamed&show_icons=true&theme=synthwave" alt="haouari-mohamed:: Profile Stats" /></p>
