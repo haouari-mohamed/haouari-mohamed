@@ -37,6 +37,14 @@
 </p>
 
 
+
+<h4 align="center">Profile stats 🎹</h4>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haouari-mohamed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div><br>
+
+
 <p align="center">
     <a/> <!-- Snake -->
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
