@@ -1,35 +1,36 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mohamed Haouari</h1>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
 ---
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,tailwind,bootstrap,vite,figma&theme=dark" />
-  </a>
-</p>
+
+<h3 align="center">Languages and Tools (Animated):</h3>
 
 <p align="center">
-  <a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="vertical-align:middle;"/>
-  </a>&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  </a>
+  <marquee behavior="smooth" scrollamount="5">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="50" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/>&nbsp;
+  </marquee>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpYm5oZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6JnB0PWEmZGl2X2lkPWVzcWdfYm90dG9tX2dpZl9pZCZjdD1z/L1SIn7vLm0FfT2ZtXp/giphy.gif" width="50" alt="react-move">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJpYm5oZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6ZzRyeGZ6JnB0PWEmZGl2X2lkPWVzcWdfYm90dG9tX2dpZl9pZCZjdD1z/3o7TKMGpxx6n5zLAbS/giphy.gif" width="50" alt="js-move">
-</p>
+---
 
 <h4 align="center">Profile stats 🎹</h4>
 
