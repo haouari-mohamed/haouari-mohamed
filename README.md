@@ -14,16 +14,15 @@
 
 <p align="center">
   <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="48" height="48"/>
+  </a>&nbsp;&nbsp;
   <a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="plotly" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="48" height="48"/>
+  </a>&nbsp;&nbsp;
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="48" height="48"/>
   </a>
 </p>
-
 ---
 
 <h4 align="center">Profile stats 🎹</h4>
