@@ -10,10 +10,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,docker,figma,git,html,java,js,jenkins,mysql,postgres,postman,spring,ts,react,redux,tailwind,vite,gitlab,linux,ubuntu,matui" alt="My Skills" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer">
@@ -23,6 +20,7 @@
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
