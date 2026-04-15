@@ -8,24 +8,31 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,tailwind,bootstrap,vite,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,css,docker,figma,git,html,java,js,jenkins,mysql,postgres,postman,spring,ts,react,redux,tailwind,vite,gitlab,linux,ubuntu,matui" alt="My Skills" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45" style="vertical-align:middle;"/>
-  </a>&nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/javascript/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="plotly" width="40" height="40"/>
+  </a>
+  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h4 align="center">Profile stats 🎹</h4>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haouari-mohamed&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+</div>
+
+<br/>
 ---
 
 <h4 align="center">Profile stats 🎹</h4>
